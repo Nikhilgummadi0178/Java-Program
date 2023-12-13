@@ -1,5 +1,5 @@
 //Program in Java to display the pattern like right angle triangle with a number.
-//Input number of rows : 5
+//Input number of rows : 
 //Expected Output :
 //1 
 //12 
