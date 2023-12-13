@@ -1,11 +1,5 @@
 //Program in Java to display the pattern like right angle triangle with a number.
-//Input number of rows : 
-//Expected Output :
-//1 
-//12 
-//123 
-//1234 
-//12345
+
 
 import java.util.Scanner;
 
